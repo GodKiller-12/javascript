@@ -52,7 +52,7 @@ This is primarily a personal learning space, but if you spot improvements or wan
 
 ## 📬 Contact
 
-Want to connect or collaborate on something? Reach out via GitHub or [insert your contact link if you'd like].
+Want to connect or collaborate on something? Reach out via GitHub linkedin.
 
 ---
 
